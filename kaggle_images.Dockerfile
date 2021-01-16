@@ -1,3 +1,3 @@
-BASE gcr.io/kaggle-images/python
+FROM gcr.io/kaggle-images/python
 
 EXPOSE 6666
